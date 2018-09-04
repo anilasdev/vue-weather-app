@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "material-ui": "^0.20.1",
+    "raven-js": "^3.26.4",
     "vue": "^2.5.17"
   },
   "devDependencies": {
